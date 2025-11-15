@@ -31,7 +31,7 @@ const Header = () => {
     >
       <div className="absolute inset-0 flex items-center justify-between pointer-events-none p-4 pr-6">
         <img
-          src="/assets/logo/logo2.svg"
+          src="/assets/Logo/logo2.svg"
           className="w-37 sm:w-37 md:w-39 lg:w-47 xl:w-55 h-auto"
           alt="Logo"
         />
