@@ -15,8 +15,8 @@ const Landing = () => {
         <div className="w-full p-7 fixed top-0 left-0 z-1000000">
           <Header />
         </div>
-        <Section1 />
-        <Section2 />
+        {/* <Section1 />
+        <Section2 /> */}
         <Section3 />
       </div>
     </Stack>
